@@ -73,7 +73,7 @@ $ cat ~/.focus
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sudobittu&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=070b14&title_color=00FF41&icon_color=37d0ff&text_color=e6edf7" alt="stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sudobittu&hide_border=true&theme=chartreuse-dark&background=070b14&ring=00FF41&fire=37d0ff&currStreakLabel=00FF41" alt="streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=sudobittu&hide_border=true&theme=chartreuse-dark&background=070b14&ring=00FF41&fire=37d0ff&currStreakLabel=00FF41" alt="streak" />
 </p>
 <p align="center">
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudobittu&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=070b14&title_color=00FF41&text_color=e6edf7" alt="top langs" />
