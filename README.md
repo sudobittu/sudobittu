@@ -1,6 +1,6 @@
 <!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="./assets/banner.gif" width="100%" alt="Sindhura Kona — Security Researcher" />
+  <img src="./assets/banner.gif" width="100%" alt="sudobittu — Security Researcher" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ### `$ whoami`
 
 ```bash
-Sindhura Kona — Independent Security Researcher
+sudobittu — Independent Security Researcher
 
 focus       : penetration testing · red teaming · QR/mobile phishing research
 building    : curated, always-current, free & open-source security tooling
