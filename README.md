@@ -20,8 +20,8 @@
 ```bash
 sudobittu — Independent Security Researcher
 
-focus       : penetration testing · red teaming · QR/mobile phishing research
-building    : curated, always-current, free & open-source security tooling
+focus       : red · blue · purple teaming · QR/mobile phishing research
+building    : a full-spectrum, free & open-source pentesting toolkit
 disclosure  : DEF CON 34 — Telecom Village (The Signal Switch)
 principle   : everything shipped is for authorized, ethical testing only
 ```
