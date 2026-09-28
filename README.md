@@ -1,6 +1,6 @@
 <!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Sindhura Kona — Security Researcher" />
+  <img src="./assets/banner.png" width="100%" alt="Sindhura Kona — Security Researcher" />
 </p>
 
 <p align="center">
@@ -31,9 +31,9 @@ principle   : everything shipped is for authorized, ethical testing only
 ## 🛠️ Featured Work
 
 <p align="center">
-  <a href="https://github.com/sudobittu/pentesting-toolkit"><img src="./assets/card-toolkit.svg" width="49%" alt="pentesting-toolkit" /></a>
+  <a href="https://github.com/sudobittu/pentesting-toolkit"><img src="./assets/card-toolkit.png" width="49%" alt="pentesting-toolkit" /></a>
   &nbsp;
-  <a href="https://github.com/sudobittu/signal-hijacked-research"><img src="./assets/card-signal.svg" width="49%" alt="signal-hijacked-research" /></a>
+  <a href="https://github.com/sudobittu/signal-hijacked-research"><img src="./assets/card-signal.png" width="49%" alt="signal-hijacked-research" /></a>
 </p>
 
 <p align="center">
