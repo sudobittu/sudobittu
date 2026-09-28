@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=720&lines=Penetration+Testing+%26+Red+Teaming;QR-based+Phishing+Research+%E2%80%94+The+Signal+Switch;Building+free+%26+open-source+security+tooling" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFB703&center=true&vCenter=true&width=720&lines=Penetration+Testing+%26+Red+Teaming;QR-based+Phishing+Research+%E2%80%94+The+Signal+Switch;Building+free+%26+open-source+security+tooling" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudobittu&label=Profile%20views&color=00FF41&style=for-the-badge&labelColor=070b14" alt="views" />
-  <a href="https://github.com/sudobittu?tab=followers"><img src="https://img.shields.io/github/followers/sudobittu?style=for-the-badge&color=00FF41&labelColor=070b14&logo=github&label=Follow" alt="followers" /></a>
-  <img src="https://img.shields.io/badge/Focus-Offensive_Security-37d0ff?style=for-the-badge&labelColor=070b14" alt="focus" />
+  <img src="https://komarev.com/ghpvc/?username=sudobittu&label=Profile%20views&color=FFB703&style=for-the-badge&labelColor=0d0f14" alt="views" />
+  <a href="https://github.com/sudobittu?tab=followers"><img src="https://img.shields.io/github/followers/sudobittu?style=for-the-badge&color=FFB703&labelColor=0d0f14&logo=github&label=Follow" alt="followers" /></a>
+  <img src="https://img.shields.io/badge/Focus-Offensive_Security-FF4D5E?style=for-the-badge&labelColor=0d0f14" alt="focus" />
 </p>
 
 ---
@@ -37,12 +37,12 @@ principle   : everything shipped is for authorized, ethical testing only
 </p>
 
 <p align="center">
-  <a href="https://github.com/sudobittu/pentesting-toolkit"><img src="https://img.shields.io/github/stars/sudobittu/pentesting-toolkit?style=flat-square&color=00FF41&labelColor=070b14&logo=github&label=toolkit%20%E2%98%85" /></a>
-  <a href="https://github.com/sudobittu/pentesting-toolkit"><img src="https://img.shields.io/github/languages/top/sudobittu/pentesting-toolkit?style=flat-square&color=37d0ff&labelColor=070b14" /></a>
-  <a href="https://github.com/sudobittu/pentesting-toolkit"><img src="https://img.shields.io/github/license/sudobittu/pentesting-toolkit?style=flat-square&color=9b6bff&labelColor=070b14" /></a>
+  <a href="https://github.com/sudobittu/pentesting-toolkit"><img src="https://img.shields.io/github/stars/sudobittu/pentesting-toolkit?style=flat-square&color=FFB703&labelColor=0d0f14&logo=github&label=toolkit%20%E2%98%85" /></a>
+  <a href="https://github.com/sudobittu/pentesting-toolkit"><img src="https://img.shields.io/github/languages/top/sudobittu/pentesting-toolkit?style=flat-square&color=8ECAE6&labelColor=0d0f14" /></a>
+  <a href="https://github.com/sudobittu/pentesting-toolkit"><img src="https://img.shields.io/github/license/sudobittu/pentesting-toolkit?style=flat-square&color=FF4D5E&labelColor=0d0f14" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/sudobittu/signal-hijacked-research"><img src="https://img.shields.io/github/stars/sudobittu/signal-hijacked-research?style=flat-square&color=00FF41&labelColor=070b14&logo=github&label=signal%20%E2%98%85" /></a>
-  <a href="https://github.com/sudobittu/signal-hijacked-research"><img src="https://img.shields.io/github/last-commit/sudobittu/signal-hijacked-research?style=flat-square&color=37d0ff&labelColor=070b14&label=updated" /></a>
+  <a href="https://github.com/sudobittu/signal-hijacked-research"><img src="https://img.shields.io/github/stars/sudobittu/signal-hijacked-research?style=flat-square&color=FFB703&labelColor=0d0f14&logo=github&label=signal%20%E2%98%85" /></a>
+  <a href="https://github.com/sudobittu/signal-hijacked-research"><img src="https://img.shields.io/github/last-commit/sudobittu/signal-hijacked-research?style=flat-square&color=8ECAE6&labelColor=0d0f14&label=updated" /></a>
 </p>
 
 ---
@@ -70,7 +70,7 @@ principle   : everything shipped is for authorized, ethical testing only
 ## 🔥 Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sudobittu&hide_border=true&theme=chartreuse-dark&background=070b14&ring=00FF41&fire=37d0ff&currStreakLabel=00FF41&sideLabels=e6edf7&dates=8fa3bf" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=sudobittu&hide_border=true&background=0d0f14&stroke=FFB703&ring=FFB703&fire=FF4D5E&currStreakLabel=FFB703&currStreakNum=F2EAD6&sideNums=F2EAD6&sideLabels=8ECAE6&dates=9A8F7A" alt="streak" />
 </p>
 
 <p align="center">
