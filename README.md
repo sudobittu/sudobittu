@@ -1,60 +1,55 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,50:003B00,100:00FF41&height=180&section=header&text=sudobittu&fontColor=eafff5&fontSize=60&fontAlignY=32&desc=Offensive%20Security%20%7C%20Pentesting%20%7C%20Tooling&descAlignY=54&descSize=18" width="100%"/>
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=760&lines=Security+Engineer+%2F+Penetration+Tester;Breaking+it+before+the+bad+guys+do;Building+free+%26+open-source+security+tooling;Attacking+%26+Securing+the+Digital+World" alt="Typing SVG" />
-  </a>
-</h1>
+<!-- ===================== HERO ===================== -->
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Sindhura Kona — Security Researcher" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudobittu&label=Profile%20views&color=00FF41&style=for-the-badge&labelColor=070b14" alt="profile views" />
-  <a href="https://github.com/sudobittu?tab=followers"><img src="https://img.shields.io/github/followers/sudobittu?label=Followers&style=for-the-badge&color=00FF41&labelColor=070b14&logo=github" alt="followers" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=720&lines=Penetration+Testing+%26+Red+Teaming;QR-based+Phishing+Research+%E2%80%94+The+Signal+Switch;Building+free+%26+open-source+security+tooling" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudobittu&label=Profile%20views&color=00FF41&style=for-the-badge&labelColor=070b14" alt="views" />
+  <a href="https://github.com/sudobittu?tab=followers"><img src="https://img.shields.io/github/followers/sudobittu?style=for-the-badge&color=00FF41&labelColor=070b14&logo=github&label=Follow" alt="followers" /></a>
+  <img src="https://img.shields.io/badge/Focus-Offensive_Security-37d0ff?style=for-the-badge&labelColor=070b14" alt="focus" />
 </p>
 
 ---
 
-### 👋 whoami
+### `$ whoami`
 
 ```bash
-$ whoami
-sudobittu — offensive security enthusiast
+Sindhura Kona — Independent Security Researcher
 
-$ cat ~/.focus
-[+] Penetration testing & red teaming
-[+] Building curated, always-current security tooling
-[+] Web, network, AD, cloud, and everything in scope
-[+] Free & open source, so any pentester can just download and run
+focus       : penetration testing · red teaming · QR/mobile phishing research
+building    : curated, always-current, free & open-source security tooling
+disclosure  : DEF CON 34 — Telecom Village (The Signal Switch)
+principle   : everything shipped is for authorized, ethical testing only
 ```
 
 ---
 
-## 🛠️ Featured Projects
+## 🛠️ Featured Work
 
-### 🛡️ [pentesting-toolkit](https://github.com/sudobittu/pentesting-toolkit)
-
-<p>
-  <img src="https://img.shields.io/github/stars/sudobittu/pentesting-toolkit?style=for-the-badge&color=00FF41&labelColor=070b14&logo=github" />
-  <img src="https://img.shields.io/github/forks/sudobittu/pentesting-toolkit?style=for-the-badge&color=37d0ff&labelColor=070b14&logo=git" />
-  <img src="https://img.shields.io/github/languages/top/sudobittu/pentesting-toolkit?style=for-the-badge&color=9b6bff&labelColor=070b14" />
-  <img src="https://img.shields.io/github/license/sudobittu/pentesting-toolkit?style=for-the-badge&color=eaeaea&labelColor=070b14" />
+<p align="center">
+  <a href="https://github.com/sudobittu/pentesting-toolkit"><img src="./assets/card-toolkit.svg" width="49%" alt="pentesting-toolkit" /></a>
+  &nbsp;
+  <a href="https://github.com/sudobittu/signal-hijacked-research"><img src="./assets/card-signal.svg" width="49%" alt="signal-hijacked-research" /></a>
 </p>
 
-> A curated, domain-structured pentesting resource hub — **91 tool reference pages**, a phased engagement playbook, and copy-paste cheatsheets. Everything free &amp; open source, so any pentester can download and run it.
-
-### 📡 [signal-hijacked-research](https://github.com/sudobittu/signal-hijacked-research)
-
-<p>
-  <img src="https://img.shields.io/github/stars/sudobittu/signal-hijacked-research?style=for-the-badge&color=00FF41&labelColor=070b14&logo=github" />
-  <img src="https://img.shields.io/github/last-commit/sudobittu/signal-hijacked-research?style=for-the-badge&color=37d0ff&labelColor=070b14&logo=git" />
+<p align="center">
+  <a href="https://github.com/sudobittu/pentesting-toolkit"><img src="https://img.shields.io/github/stars/sudobittu/pentesting-toolkit?style=flat-square&color=00FF41&labelColor=070b14&logo=github&label=toolkit%20%E2%98%85" /></a>
+  <a href="https://github.com/sudobittu/pentesting-toolkit"><img src="https://img.shields.io/github/languages/top/sudobittu/pentesting-toolkit?style=flat-square&color=37d0ff&labelColor=070b14" /></a>
+  <a href="https://github.com/sudobittu/pentesting-toolkit"><img src="https://img.shields.io/github/license/sudobittu/pentesting-toolkit?style=flat-square&color=9b6bff&labelColor=070b14" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sudobittu/signal-hijacked-research"><img src="https://img.shields.io/github/stars/sudobittu/signal-hijacked-research?style=flat-square&color=00FF41&labelColor=070b14&logo=github&label=signal%20%E2%98%85" /></a>
+  <a href="https://github.com/sudobittu/signal-hijacked-research"><img src="https://img.shields.io/github/last-commit/sudobittu/signal-hijacked-research?style=flat-square&color=37d0ff&labelColor=070b14&label=updated" /></a>
 </p>
-
-> Hands-on research into signal interception &amp; RF security — documented and defensive-minded.
 
 ---
 
-## 🧰 Arsenal & Tech
+## 🧰 Arsenal &amp; Tech
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -62,26 +57,20 @@ $ cat ~/.focus
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2A2E3B?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/nuclei-000000?style=for-the-badge&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/BloodHound-000000?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sudobittu&hide_border=true&theme=chartreuse-dark&background=070b14&ring=00FF41&fire=37d0ff&currStreakLabel=00FF41&sideLabels=00FF41&dates=8fa3bf" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=sudobittu&hide_border=true&theme=chartreuse-dark&background=070b14&ring=00FF41&fire=37d0ff&currStreakLabel=00FF41&sideLabels=e6edf7&dates=8fa3bf" alt="streak" />
 </p>
 
----
-
-<blockquote align="center">
-  ⚖️ <em>Everything I build and share is for authorized, ethical security testing only.</em>
-</blockquote>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B00,100:070b14&height=120&section=footer" width="100%"/>
+<p align="center"><sub>⚖️ Everything I build and share is for authorized, ethical security testing only.</sub></p>
