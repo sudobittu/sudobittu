@@ -7,8 +7,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudobittu&label=Profile%20views&color=00FF41&style=flat" alt="profile views" />
-  <a href="https://github.com/sudobittu?tab=followers"><img src="https://img.shields.io/github/followers/sudobittu?label=Followers&style=flat&color=00FF41&labelColor=070b14" alt="followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sudobittu&label=Profile%20views&color=00FF41&style=for-the-badge&labelColor=070b14" alt="profile views" />
+  <a href="https://github.com/sudobittu?tab=followers"><img src="https://img.shields.io/github/followers/sudobittu?label=Followers&style=for-the-badge&color=00FF41&labelColor=070b14&logo=github" alt="followers" /></a>
 </p>
 
 ---
@@ -30,22 +30,25 @@ $ cat ~/.focus
 
 ## 🛠️ Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/sudobittu/pentesting-toolkit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudobittu&repo=pentesting-toolkit&theme=chartreuse-dark&hide_border=true&bg_color=070b14&title_color=00FF41&icon_color=37d0ff" alt="pentesting-toolkit" width="100%"/>
-      </a>
-      <p>🛡️ A curated, domain-structured pentesting resource hub — 91 tool reference pages, a phased engagement playbook, and copy-paste cheatsheets. All free &amp; open source.</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/sudobittu/signal-hijacked-research">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudobittu&repo=signal-hijacked-research&theme=chartreuse-dark&hide_border=true&bg_color=070b14&title_color=00FF41&icon_color=37d0ff" alt="signal-hijacked-research" width="100%"/>
-      </a>
-      <p>📡 Research into signal interception &amp; RF security — documented, hands-on, and defensive-minded.</p>
-    </td>
-  </tr>
-</table>
+### 🛡️ [pentesting-toolkit](https://github.com/sudobittu/pentesting-toolkit)
+
+<p>
+  <img src="https://img.shields.io/github/stars/sudobittu/pentesting-toolkit?style=for-the-badge&color=00FF41&labelColor=070b14&logo=github" />
+  <img src="https://img.shields.io/github/forks/sudobittu/pentesting-toolkit?style=for-the-badge&color=37d0ff&labelColor=070b14&logo=git" />
+  <img src="https://img.shields.io/github/languages/top/sudobittu/pentesting-toolkit?style=for-the-badge&color=9b6bff&labelColor=070b14" />
+  <img src="https://img.shields.io/github/license/sudobittu/pentesting-toolkit?style=for-the-badge&color=eaeaea&labelColor=070b14" />
+</p>
+
+> A curated, domain-structured pentesting resource hub — **91 tool reference pages**, a phased engagement playbook, and copy-paste cheatsheets. Everything free &amp; open source, so any pentester can download and run it.
+
+### 📡 [signal-hijacked-research](https://github.com/sudobittu/signal-hijacked-research)
+
+<p>
+  <img src="https://img.shields.io/github/stars/sudobittu/signal-hijacked-research?style=for-the-badge&color=00FF41&labelColor=070b14&logo=github" />
+  <img src="https://img.shields.io/github/last-commit/sudobittu/signal-hijacked-research?style=for-the-badge&color=37d0ff&labelColor=070b14&logo=git" />
+</p>
+
+> Hands-on research into signal interception &amp; RF security — documented and defensive-minded.
 
 ---
 
@@ -64,22 +67,15 @@ $ cat ~/.focus
   <img src="https://img.shields.io/badge/Metasploit-2A2E3B?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ghidra-CC3333?style=for-the-badge&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/nuclei-000000?style=for-the-badge&logo=&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sudobittu&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=070b14&title_color=00FF41&icon_color=37d0ff&text_color=e6edf7" alt="stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=sudobittu&hide_border=true&theme=chartreuse-dark&background=070b14&ring=00FF41&fire=37d0ff&currStreakLabel=00FF41" alt="streak" />
-</p>
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudobittu&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=070b14&title_color=00FF41&text_color=e6edf7" alt="top langs" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudobittu&theme=matrix&no-frame=true&column=7&margin-w=8" alt="trophies" />
+  <img src="https://streak-stats.demolab.com/?user=sudobittu&hide_border=true&theme=chartreuse-dark&background=070b14&ring=00FF41&fire=37d0ff&currStreakLabel=00FF41&sideLabels=00FF41&dates=8fa3bf" alt="streak" />
 </p>
 
 ---
