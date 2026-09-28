@@ -1,6 +1,6 @@
 <!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Sindhura Kona — Security Researcher" />
+  <img src="./assets/banner.gif" width="100%" alt="Sindhura Kona — Security Researcher" />
 </p>
 
 <p align="center">
@@ -71,6 +71,10 @@ principle   : everything shipped is for authorized, ethical testing only
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sudobittu&hide_border=true&theme=chartreuse-dark&background=070b14&ring=00FF41&fire=37d0ff&currStreakLabel=00FF41&sideLabels=e6edf7&dates=8fa3bf" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sudobittu/sudobittu/output/snake.svg" alt="contribution snake animation" width="100%" />
 </p>
 
 <p align="center"><sub>⚖️ Everything I build and share is for authorized, ethical security testing only.</sub></p>
